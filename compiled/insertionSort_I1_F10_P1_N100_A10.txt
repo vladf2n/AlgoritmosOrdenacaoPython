@@ -1,0 +1,2 @@
+InsertionSort: start=1, stop=10, step=1, n_iterations=100
+Size= Array Size, mean= Mean Execution Time (nanoseconds), standardDeviation = Standard Deviation (nanoseconds)
